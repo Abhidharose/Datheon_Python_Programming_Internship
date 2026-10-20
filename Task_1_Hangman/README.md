@@ -12,18 +12,26 @@ and importing and using the `os` module to clear the terminal screen.
 
 ## Features
 
-1.Random selection of a secret word
-2.Six incorrect attempts allowed
-3.ASCII gallows that update after incorrect guesses
-4.Displays correctly guessed letters
-5.Tracks previously guessed letters
-6.Prevents duplicate guesses from reducing attempts
-7.Displays win or loss messages
 
+1. **Random Word Selection:** Randomly selects a secret word from the word list.
+
+2. **Limited Attempts:** Allows a maximum of six incorrect guesses.
+
+3. **ASCII Hangman Drawing:** Updates the Hangman drawing after each incorrect guess.
+
+4. **Correctly Guessed Letters:** Displays correctly guessed letters in their respective positions in the secret word.
+
+5. **Guessed Letter Tracking:** Keeps track of previously guessed letters.
+
+6. **Duplicate Guess Prevention:** Prevents repeated guesses from reducing the remaining attempts.
+
+7. **Win or Loss Messages:** Displays a winning message when the word is guessed correctly or a losing message when all attempts are used.
+
+ 
 ## Technologies Used
 
-Programming Language: Python
-Code Editor: Visual Studio Code (VS Code)
+**Programming Language: Python
+**Code Editor: Visual Studio Code (VS Code)
 
 ## Python Modules Used
 
