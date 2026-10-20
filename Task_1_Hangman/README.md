@@ -60,7 +60,6 @@ Terminal screen management
 2. Open the project folder in a terminal.
 3. Run `python hangman.py`.
 
- ## Algorithm
 
 ## Algorithm
 
