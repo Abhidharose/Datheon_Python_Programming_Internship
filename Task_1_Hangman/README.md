@@ -30,8 +30,8 @@ and importing and using the `os` module to clear the terminal screen.
  
 ## Technologies Used
 
-**Programming Language: Python
-**Code Editor: Visual Studio Code (VS Code)
+1. **Programming Language: ** Python
+2. **Code Editor: ** Visual Studio Code (VS Code)
 
 ## Python Modules Used
 
