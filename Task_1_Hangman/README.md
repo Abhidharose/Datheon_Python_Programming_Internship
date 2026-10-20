@@ -125,10 +125,10 @@ Hangman game.
 
 ## Learning Resources and Development Approach
 
--YouTube tutorials: Referred to YouTube tutorials to understand Python concepts and learn different approaches to 
- implementing the Hangman game.
--AI tools: Used AI tools to clarify coding doubts, understand errors, and explore ways to improve the implementation.
--Code structuring: Organised the program into functions, such as game() and display_game(), to separate the main game
- logic from the display functionality and improve readability.
--Practice and improvement: Applied the concepts I learned, tested the program, 
- and refined the code to improve its functionality and user experience.
+1. **YouTube Tutorials:** Referred to YouTube tutorials to understand Python concepts and learn different approaches to implementing the Hangman game.
+
+2. **AI Tools:** Used AI tools to clarify coding doubts, understand errors, and explore ways to improve the implementation.
+
+3. **Code Structuring:** Organized the program into functions, such as `game()` and `display_game()`, to separate the main game logic from the display functionality and improve readability.
+
+4. **Practice and Improvement:** Applied the concepts I learned, tested the program, and refined the code to improve its functionality and user experience.
