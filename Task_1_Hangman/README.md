@@ -139,3 +139,14 @@ Hangman game.
 3. **Code Structuring:** Organized the program into functions, such as `game()` and `display_game()`, to separate the main game logic from the display functionality and improve readability.
 
 4. **Practice and Improvement:** Applied the concepts I learned, tested the program, and refined the code to improve its functionality and user experience.
+
+## Screenshots
+
+### Starting the Game
+![Starting the Game](starting_program.PNG)
+
+### Game Output
+![Game Output](output.PNG)
+
+### Another Game State
+![Another Game State](Second_output.PNG)
