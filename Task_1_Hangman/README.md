@@ -54,23 +54,41 @@ Terminal screen management
 
  ## Algorithm
 
-step1: Start the program.
-step2: Open `words.txt` and read the words into a list.
-step3: Remove empty lines and convert the words to lowercase.
-step4: If the word list is empty, display an error and stop the program.
-step5: Randomly select a secret word from the list.
-step6: Initialise the list of guessed letters, set the number of wrong guesses to zero, and set the maximum attempts to six.
-step7: Display the Hangman drawing, the hidden word, previously guessed letters, and remaining attempts.
-step8: Ask the player to enter a letter.
-step9: Validate the input. If it is not a single alphabetic character, display an error and ask again.
-step10: Check whether the letter has already been guessed. If so, display a message and ask again without deducting an attempt.
-step11: Add the new letter to the list of guessed letters.
-step12: If the letter is in the secret word, display a correct-guess message. Otherwise, display a wrong-guess message and increase the wrong-guess count by one.
-step13: Check whether all letters in the secret word have been guessed.
-step14: If all letters have been guessed, display the completed word and the winning message, then end the game.
-step15: If the player has made six incorrect guesses, display the final Hangman drawing, the losing message, and the secret word, then end the game.
-step16: Otherwise, ask the player to press Enter and continue from Step 7.
-step17: End the program.
+## Algorithm
+
+1. **Start the program.**
+
+2. Open `words.txt` and read the words into a list.
+
+3. Remove empty lines and convert all words to lowercase.
+
+4. If the word list is empty, display an error message and stop the program.
+
+5. Randomly select a secret word from the word list.
+
+6. Initialize the list of guessed letters, set the number of wrong guesses to zero, and set the maximum attempts to six.
+
+7. Display the Hangman drawing, the hidden word, previously guessed letters, and remaining attempts.
+
+8. Ask the player to enter a letter.
+
+9. Validate the input. If it is not a single alphabetic character, display an error message and ask again without deducting an attempt.
+
+10. Check whether the letter has already been guessed. If so, display a message and ask again.
+
+11. Add the new letter to the list of guessed letters.
+
+12. If the letter is in the secret word, display a correct-guess message. Otherwise, display a wrong-guess message and increase the wrong-guess count by one.
+
+13. Check whether all letters in the secret word have been guessed.
+
+14. If all letters have been guessed, display the completed word and a winning message, then end the game.
+
+15. If the player has made six incorrect guesses, display the final Hangman drawing, the losing message, and the secret word, then end the game.
+
+16. Otherwise, ask the player to press Enter and continue from Step 7.
+
+17. End the program.
 
 
 ## Improvements Made
