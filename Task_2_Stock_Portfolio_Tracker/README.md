@@ -84,17 +84,11 @@ This project is for educational purposes only and does not provide financial or 
 
 ## Output Screenshots
 
-### 1. Portfolio Tracker - Main Menu
-![Portfolio Tracker Main Menu](./track-1.png)
-
-### 2. Portfolio Tracker - Portfolio View
-![Portfolio Tracker Portfolio View](./track-2.png)
-
-### 3. Portfolio Tracker - Transaction History
-![Portfolio Tracker Transaction History](./track-3.png)
-
-### 4. Portfolio Tracker - Additional Output
-![Portfolio Tracker Additional Output](./track-4.png)
+![Portfolio Tracker Main Menu](track1.png)
+![Portfolio Tracker Portfolio View](track2.png)
+![Portfolio Tracker Transaction History](track3.png)
+![Portfolio Tracker Additional Output](track4.png)
+![Portfolio Tracker Exit interface](./track-4.png)
 
 
 
