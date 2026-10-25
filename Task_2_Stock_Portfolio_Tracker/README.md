@@ -84,14 +84,14 @@ This project is for educational purposes only and does not provide financial or 
 ## Output Screenshots
 
 ### 1. Portfolio Tracker - Output 1
-![Portfolio Tracker Output 1](%20track%201.PNG)
+![Portfolio Tracker Output 1](track1.PNG)
 
 ### 2. Portfolio Tracker - Output 2
-![Portfolio Tracker Output 2](%20track%202.PNG)
+![Portfolio Tracker Output 2](track2.PNG)
 
 ### 3. Portfolio Tracker - Output 3
-![Portfolio Tracker Output 3](%20track%204.PNG)
+![Portfolio Tracker Output 3](track3.PNG)
 
 ### 4. Portfolio Tracker - Output 4
-![Portfolio Tracker Output 4](track3.PNG)
+![Portfolio Tracker Output 4](track4.PNG)
 
