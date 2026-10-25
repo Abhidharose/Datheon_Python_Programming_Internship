@@ -137,7 +137,19 @@ This project demonstrates Python functions, loops, conditional statements, dicti
 This project is for educational purposes only and does not provide financial or investment advice.
 
 
-![Portfolio Tracker Exit interface](./track-4.png)
+## Screenshots
+
+### OUTPUT-1
+![First Interface](track1.PNG)
+
+### OUTPUT-2
+![Second Interface](track2.PNG)
+
+### OUTPUT-3
+![Third Interface](track3.PNG)
+
+### OUTPUT-3
+![Fourth Interface](track4.PNG)
 
 
 
